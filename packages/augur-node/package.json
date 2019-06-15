@@ -83,7 +83,7 @@
   },
   "devDependencies": {
     "@types/pouchdb": "6.3.3",
-    "eslint": "5.12.1",
+    "eslint": "5.16.0",
     "husky": "0.14.3",
     "node-gyp": "3.8.0",
     "node-pre-gyp": "0.12.0",
